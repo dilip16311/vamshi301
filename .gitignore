@@ -1,0 +1,4 @@
+#Don't track a.txt
+a.txt
+#Don't track all .java files
+a.java
